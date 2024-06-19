@@ -1,4 +1,4 @@
-## Task #3
+## Task #3 - Configure Default SSH User for Ansible
 
 Modify the default configuration of Ansible to enable the use of `mariyam` as the default SSH user for all hosts.
 
