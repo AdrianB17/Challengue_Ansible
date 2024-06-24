@@ -33,3 +33,7 @@ $ vi /ansible/playbook.yml
         dest: /opt/data
         mode: 0644  # Set file permissions (read-write for owner, read-only for group and others)
 ```
+```shell
+$ ansible-playbook -i inventory playbook.yml
+```
+
